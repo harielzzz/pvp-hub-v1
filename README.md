@@ -1,5 +1,4 @@
-# pvp-hub-v1
-universal pvp hub
+
 -- Serviços do Roblox
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
